@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "3D Object Reconstruction using Point Pair Features: I finally finished my bachelor's thesis!"
+title: "3D Object Reconstruction using Point Pair Features"
+permalink: "bscthesis"
 ---
+I finally finished my bachelor's thesis. Here is the [final thesis](http://adrian-haarbach.de/bscthesis_adrian.pdf) as well as the [final presentation slides](http://adrian-haarbach.de/bscthesis_adrian_slides.pdf). All the code I developed during my research is open source and is hosted in my github repository [ppf-reconstruction](https://github.com/adrelino/ppf-reconstruction)
 
-### Finished my Bachelor's thesis
-I finally finished my bachelor's thesis *3D Object Reconstruction using Point Pair Features*:
+###Abstract
+3D Object Reconstruction using Point Pair Features
 >This work aims at reconstructing 3D objects by robustly and accurately registering multiple
 range images of an object from different viewpoints.
 An initial alignment between any two overlapping scans is obtained via a voting scheme
@@ -22,5 +24,4 @@ This refined registration of all the scans used may now be integrated and their 
 point clouds fused and then meshed to obtain the final reconstructed 3D object
 mesh.
 
-##
-Here is the [final thesis](http://adrian-haarbach.de/bscthesis_adrian.pdf) as well as the [final presentation slides](http://adrian-haarbach.de/bscthesis_adrian_slides.pdf). All the code I developed during my research is open source and is hosted in my github repository [ppf-reconstruction](https://github.com/adrelino/ppf-reconstruction)
+
