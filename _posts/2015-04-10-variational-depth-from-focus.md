@@ -16,7 +16,7 @@ The whole idea is that you can get a depth map from a set of aligned, differentl
 >This paper deals with the problem of reconstructing a depth map from a sequence of differently focused images, also known as depth from focus or shape from focus. We propose to state the depth from focus problem as a variational problem including a smooth but nonconvex data fidelity term, and a convex nonsmooth regularization, which makes the method robust to noise and leads to more realistic depth maps. Additionally, we propose to solve the nonconvex minimization problem with a linearized alternating directions method of multipliers (ADMM), allowing to minimize the energy very efficiently. A numerical comparison to classical methods on simulated as well as on real data is presented.
 
 ###Example
-We recorded this sequence of 19 differently focused images http://in.tum.de/~haarbach/balcony.zip (19 images, 8.7MB)
+We recorded this sequence of 19 differently focused images http://in.tum.de/~haarbach/balcony.zip (19 images, 8.7MB)  
 The first image of the sequence is shown below:
 ![balcony_in](http://home.in.tum.de/~haarbach/balcony_0002.jpg)
 After running our algorithm, we get the following smooth depth map:
