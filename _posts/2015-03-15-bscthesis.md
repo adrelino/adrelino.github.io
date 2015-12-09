@@ -3,7 +3,7 @@ layout: post
 title: "3D Object Reconstruction using Point Pair Features"
 permalink: "bscthesis"
 ---
-I finally finished my bachelor's thesis. Here is the [final thesis](http://adrian-haarbach.de/bscthesis_adrian.pdf) as well as the [final presentation slides](http://adrian-haarbach.de/bscthesis_adrian_slides.pdf). All the code I developed during my research is open source and is hosted in my github repository [ppf-reconstruction](https://github.com/adrelino/ppf-reconstruction)
+I finally finished my bachelor's thesis. Here is the [final thesis](http://static.adrian-haarbach.de/bscthesis_adrian.pdf) as well as the [final presentation slides](http://static.adrian-haarbach.de/bscthesis_adrian_slides.pdf). All the code I developed during my research is open source and is hosted in my github repository [ppf-reconstruction](https://github.com/adrelino/ppf-reconstruction)
 
 ###Abstract
 3D Object Reconstruction using Point Pair Features
